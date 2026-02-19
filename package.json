@@ -1,0 +1,15 @@
+
+{
+  "name": "agrismart-ai",
+  "version": "1.0.0",
+  "description": "Intelligent agricultural assistant",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "@google/genai": "^1.42.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}

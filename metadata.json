@@ -1,0 +1,7 @@
+{
+  "name": "AgriSmart AI",
+  "description": "An intelligent agricultural assistant providing crop diagnosis, hyper-local weather alerts, market insights, and government scheme guidance for farmers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
